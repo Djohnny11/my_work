@@ -416,6 +416,27 @@ ul {
     text-align: center;
 }
 /* main end */
+
+.footer__menu {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.footer-img {
+    padding-top: 50px;
+}
+
+.footer__contacts {
+    padding-bottom: 75px;
+}
+
+.phone__number, .mail, .footer-link {
+    color: #FFF;
+    text-align: center;
+    font-family: var(--MR);
+    font-size: 24px;
+    text-transform: capitalize;
+}
 /* media start */
 
 @media ( prefers-color-scheme: dark) {
